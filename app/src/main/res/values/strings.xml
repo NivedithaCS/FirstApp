@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="Textname">Main Activity</string>
+    <string name="Buttonname">Go to Home Page</string>
+    <string name="Activity_name">Home Activity</string>
+    <string name="First_button">About</string>
+    <string name="service_name">Service</string>
+    <string name="Contact_name">Contact</string>
+    <string name="Contact">Contact</string>
+    <string name="return_value">Return</string>
+    <string name="button_name">ABOUT</string>
+    <string name="about_value">Online services provided for all home related works</string>
+    <string name="button_value">RETURN</string>
+    <string name="Service_name">SERVICE</string>
+    <string name="service_title">It is a home service appliances provider through online to the customers</string>
+    <string name="Servicebutton_name">RETURN</string>
+    <string name="contact_name">CONTACT</string>
+    <string name="tiltle">Contact us for any quries @2223334440</string>
+
+    <string name="button_return">Return</string>
+    <string name="service">SERVICE</string>
+</resources>
